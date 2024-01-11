@@ -2,9 +2,20 @@
   Hi! I'm Mariya!
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjM5ZTI1ZDY2ZDE5NGIxZmIwMzgzZWZmYmE3MGExNTEyNTZkNmY1MiZjdD1z/TsKxjehYiVEooXxfdt/giphy.gif" width="30px"/>
 </h1>
- <span>🚀 Junior Frontend Developer</span>
- <div>🧠 I’m currently learning on a at "Hexlet"</div>
+ <span>:computer: Junior Frontend Developer</span>
+ <div>:mortar_board: I’m currently learning on a at "Hexlet"</div>
+
  
-<div id="header" align="right">
-  <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="100"/>
-</div>
+ 
+#### Technology stack
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MBelinskaya&layout=compact)](https://github.com/MBelinskaya/github-readme-stats)
